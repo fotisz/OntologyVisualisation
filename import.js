@@ -21,7 +21,7 @@
 // be displayed, as they were not annotated.
 
 var rootId = 8;
-var apiPath = "https://api.brain-map.org/api/v2/";
+var apiPath = "http://api.brain-map.org/api/v2/";
 var structureGraphId = 1; 
 
 function importData(id, callback) {
